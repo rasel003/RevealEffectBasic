@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:20:1-41:12
+INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:20:1-41:12
+INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:20:1-41:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\8a61250af9428187f6b794f356c6c2a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\f6412b339717be26ff1922022837f889\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\0c2c1de8a1aa43ed3430ca8fef3f919b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\da1f49080c42e8185a6da9c44255456c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\e9e69976fc34e4cc6d27c4fdc1f1d793\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\5f6143d42ffdaece01218eaef989c6d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\e9c874c30ee3bd7d604048cfc54b02b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\80df2d582c3d78251a29646579324680\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\2bed5f922c4bd452f70958e859826cf1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\a87645dec6deca424033818444ef79ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\dbcc9c62750c1b38279a4e1a0bcbd326\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\42d520810d6044d5f5eb143485780e22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\04d134f280679f10e1ffe0816445e607\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\63920b06490a22a36586901ca46c18cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\770e239b6d7c80c731337b2cd038893b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\3c1d674fee9a8212069d1e10777a0d51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\98ad2229558ce4faa365cd229fc0c447\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\f21526f3798929367362c2c1d1e0eecc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\1c3a9d60b3fa4d01f99285e766909663\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\9bbb419d6ff5a3b8e7747241edd1d0f7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\4362440d83aee42368e089437a642dbd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\e706f4d93f5dfcf47fb8d07d14c9673f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\5b511472bd2f4c104d16efa7cc210495\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\a4b54a07d2312192d5908603308d5e4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\78a6aee92d83a0abe5a976af8f35954e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\b89545c209435a5fadf058720e6839ea\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\158e07064317bbc0232b2c7fb9e53fd2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\6b607d0c31856a45ecd5e8cb19e2f6bd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\524738d8398dacffc62007c8ee3e70b3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\c4bbfd43c2c4082b46035647f73d1ee8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:20:1-41:12
+INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:20:1-41:12
+	package
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:21:5-52
+	android:versionName
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml
+	android:uiOptions
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:24:5-49
+application
+ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\1c3a9d60b3fa4d01f99285e766909663\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\1c3a9d60b3fa4d01f99285e766909663\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\9bbb419d6ff5a3b8e7747241edd1d0f7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\9bbb419d6ff5a3b8e7747241edd1d0f7\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\1c3a9d60b3fa4d01f99285e766909663\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:29:9-40
+activity#com.example.android.revealeffectbasic.MainActivity
+ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:31:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\8a61250af9428187f6b794f356c6c2a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\8a61250af9428187f6b794f356c6c2a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\f6412b339717be26ff1922022837f889\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\f6412b339717be26ff1922022837f889\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\0c2c1de8a1aa43ed3430ca8fef3f919b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\0c2c1de8a1aa43ed3430ca8fef3f919b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\da1f49080c42e8185a6da9c44255456c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\da1f49080c42e8185a6da9c44255456c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\e9e69976fc34e4cc6d27c4fdc1f1d793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\e9e69976fc34e4cc6d27c4fdc1f1d793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\5f6143d42ffdaece01218eaef989c6d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\5f6143d42ffdaece01218eaef989c6d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\e9c874c30ee3bd7d604048cfc54b02b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\e9c874c30ee3bd7d604048cfc54b02b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\80df2d582c3d78251a29646579324680\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\80df2d582c3d78251a29646579324680\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\2bed5f922c4bd452f70958e859826cf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\2bed5f922c4bd452f70958e859826cf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\a87645dec6deca424033818444ef79ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\a87645dec6deca424033818444ef79ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\dbcc9c62750c1b38279a4e1a0bcbd326\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\dbcc9c62750c1b38279a4e1a0bcbd326\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\42d520810d6044d5f5eb143485780e22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\42d520810d6044d5f5eb143485780e22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\04d134f280679f10e1ffe0816445e607\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\04d134f280679f10e1ffe0816445e607\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\63920b06490a22a36586901ca46c18cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\63920b06490a22a36586901ca46c18cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\770e239b6d7c80c731337b2cd038893b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\770e239b6d7c80c731337b2cd038893b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\3c1d674fee9a8212069d1e10777a0d51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\3c1d674fee9a8212069d1e10777a0d51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\98ad2229558ce4faa365cd229fc0c447\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\98ad2229558ce4faa365cd229fc0c447\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\f21526f3798929367362c2c1d1e0eecc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\f21526f3798929367362c2c1d1e0eecc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\1c3a9d60b3fa4d01f99285e766909663\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\1c3a9d60b3fa4d01f99285e766909663\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\9bbb419d6ff5a3b8e7747241edd1d0f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\9bbb419d6ff5a3b8e7747241edd1d0f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\4362440d83aee42368e089437a642dbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\4362440d83aee42368e089437a642dbd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\e706f4d93f5dfcf47fb8d07d14c9673f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\e706f4d93f5dfcf47fb8d07d14c9673f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\5b511472bd2f4c104d16efa7cc210495\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\5b511472bd2f4c104d16efa7cc210495\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\a4b54a07d2312192d5908603308d5e4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\a4b54a07d2312192d5908603308d5e4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\78a6aee92d83a0abe5a976af8f35954e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\78a6aee92d83a0abe5a976af8f35954e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\b89545c209435a5fadf058720e6839ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\b89545c209435a5fadf058720e6839ea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\158e07064317bbc0232b2c7fb9e53fd2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\158e07064317bbc0232b2c7fb9e53fd2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\6b607d0c31856a45ecd5e8cb19e2f6bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\6b607d0c31856a45ecd5e8cb19e2f6bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\524738d8398dacffc62007c8ee3e70b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\524738d8398dacffc62007c8ee3e70b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\c4bbfd43c2c4082b46035647f73d1ee8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mdras\.gradle\caches\transforms-2\files-2.1\c4bbfd43c2c4082b46035647f73d1ee8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mdras\AndroidStudioProjects\RevealEffectBasic\Application\src\main\AndroidManifest.xml
